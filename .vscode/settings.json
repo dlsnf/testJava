@@ -4,4 +4,16 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
     ]
+    ,
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Program",
+            "request": "launch",
+            "mainClass": "Test01",
+            "console": "internalConsole" // 통합 터미널 대신 내부 콘솔 사용
+        }
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }

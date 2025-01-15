@@ -1,19 +1,19 @@
-public class Test01 {
+public class Test02 {
     public static void main(String[] args) throws Exception {
-
-        System.out.println("");
-        System.out.println("");
-        System.out.println("");
-        System.out.println("");
-        System.out.println("");
-        System.out.println("");
-        System.out.println("");
-        System.out.println("");
-        System.out.println("");
-        System.out.println("");
         
-        System.out.println("Test 01");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
 
+        System.out.println("Test 02");
 
+        
     }
 }
