@@ -15,7 +15,7 @@ public class Test03 {
 
         int[] array = { 1, 2, 3 };
 
-        Test01 app = new Test01();
+        Test03 app = new Test03();
         int result = app.solution(array);
         System.out.println("result :");
         System.out.println(result);
