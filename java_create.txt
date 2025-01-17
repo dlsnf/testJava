@@ -51,4 +51,9 @@ git push push -u origin main
 
 
   
+//원격 브랜치와 다시 동기화
+git fetch origin
+git reset --hard origin/main
+
+
 
